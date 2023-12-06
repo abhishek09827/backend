@@ -8,5 +8,8 @@
     "dev": "nodemon youtube-back/src/index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.1.0"
+  }
 }
